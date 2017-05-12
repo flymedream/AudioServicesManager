@@ -2,4 +2,4 @@
 # -AudioServicesManager *manager = [AudioServicesManager sharedManager];
 # -manager.audioServicesType = btn.tag;
 # -[manager play];
-# _几句代码搞定
+# _简书地址:http://www.jianshu.com/p/84ad9fd54242
